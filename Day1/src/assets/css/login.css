@@ -1,0 +1,66 @@
+.log_body{
+    background-image: url("https://wallpapers.com/images/hd/foam-party-background-x5vdn38j7v8zhfu1.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size:large;
+} 
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    align-items: center;
+  }
+
+  .login-head{
+    margin-left: 120px;
+  }
+  
+  .login-form {
+    border: 1px solid #cccccc00;
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    background-color: #ccccccb4;
+    font-size:large;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type='text'],
+  input[type='password'] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #000913;
+    color: #ccc;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: rgb(189, 124, 5);
+  }
+  
