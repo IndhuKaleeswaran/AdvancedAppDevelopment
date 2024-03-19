@@ -1,0 +1,58 @@
+.feedback-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding-top: 150px;
+}
+
+.feedback-form-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+}
+
+.feedback-form-container label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.feedback-form-container input[type="text"],
+.feedback-form-container input[type="email"],
+.feedback-form-container input[type="tel"],
+.feedback-form-container textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.feedback-form-container textarea {
+    resize: vertical;
+}
+
+.feedback-form-container button[type="submit"] {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.feedback-form-container button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.feedback-submitted {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    color: #155724;
+}

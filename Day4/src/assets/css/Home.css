@@ -1,0 +1,42 @@
+.home-head
+{
+    font-size: 200px;
+    text-align: center;
+    padding-top: 150px;
+    padding-right: 100px;
+    font-family: 'Sacramento', cursive;
+        color: #fff;
+  text-shadow:
+    0 0 7px #dddddd,
+    0 0 10px white,
+    0 0 21px blue,
+    0 0 42px skyblue,
+    0 0 82px #bc13fe,
+    0 0 92px skyblue,
+    0 0 102px skyblue,
+    0 0 151px skyblue;
+  
+}
+
+.desc{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 50px;
+    padding-left: 800px;
+    color: skyblue;
+}
+
+.btn1{
+    font-size:60px;
+    margin-left: 570px;
+    padding-top: 40px;
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    padding-bottom: 150px;
+
+}
+
+.home{
+  background-color: black;
+  color: white;
+}

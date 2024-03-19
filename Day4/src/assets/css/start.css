@@ -1,0 +1,49 @@
+.start-body {
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align:left;
+  }
+  
+  .start-content {
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  
+  .start-content h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .start-content p {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .explore-events-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: skyblue;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .explore-events-btn:hover {
+    background-color: blue;
+  }
+  
+  .start-h1{
+    color: skyblue;
+    text-align: left;
+    padding-bottom: 30px;
+  }
+
+  .start-p{
+    text-align: left;
+    line-height: 50px;
+  }

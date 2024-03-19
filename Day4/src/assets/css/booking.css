@@ -1,0 +1,61 @@
+.book
+{
+    background-color:black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    height: 89vh;
+}
+
+.booking-page-container {
+    max-width: 400px;
+    
+    margin-top: 20px;
+    
+    border-radius: 5px;
+    margin-left: 550px;
+    padding-top: 120px;
+
+  }
+
+  .booking-head{
+    color: skyblue;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  .booking-form {
+    margin-top: 20px;
+  }
+  
+  .form-book {
+    margin-bottom: 50px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
